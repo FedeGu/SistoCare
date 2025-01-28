@@ -78,13 +78,7 @@ Si deseas contribuir al proyecto, por favor abre un pull request o crea un issue
 
 ---
 
-## Licencia
-
-Este proyecto está bajo una licencia [MIT](LICENSE).
-
----
-
 ## Contacto
 
-Para dudas o soporte, puedes contactar al desarrollador principal en: [correo@example.com](mailto\:correo@example.com).
+Para dudas o soporte, puedes contactar a uno de los desarrolladores principales en: [correo@example.com](mailto\:gurrea.fd@gmail.com).
 
