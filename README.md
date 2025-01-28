@@ -80,5 +80,5 @@ Si deseas contribuir al proyecto, por favor abre un pull request o crea un issue
 
 ## Contacto
 
-Para dudas o soporte, puedes contactar a uno de los desarrolladores principales en: [correo@example.com](mailto\:gurrea.fd@gmail.com).
+Para dudas o soporte, puedes contactar a uno de los desarrolladores principales en: [gurrea.fd@gmail.com](mailto\:gurrea.fd@gmail.com).
 
